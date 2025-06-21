@@ -2,6 +2,10 @@
     const year = new Date().getFullYear();
 </script>
 
+<svelte:head>
+    <title>Axel Josh | Politica y Privacidad</title>
+</svelte:head>
+
 <main class="container py-5">
     <section class="bg-body-tertiary rounded p-4 shadow-sm">
         <h1 class="mb-4 text-secondary">Política de privacidad</h1>

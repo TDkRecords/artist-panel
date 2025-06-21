@@ -43,6 +43,10 @@ He colaborado con Dokzma en el tema “Pensándote” (2022), junto a participac
     };
 </script>
 
+<svelte:head>
+    <title>Axel Josh</title>
+</svelte:head>
+
 <main class="container py-5">
     <!-- Hero -->
     <section
