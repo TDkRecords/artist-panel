@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero-dark {
+    /* background-color: #1e1e2e; */
+    background: url("/src/lib/images/sentado-larger.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: var(--bs-btn-color);
+}
+
+.greeting {
+    background-color: rgba(15, 15, 15, .55);
+}
+
+.btn-accent {
+    --bs-btn-color: #ffffff;
+    --bs-btn-bg: #6ea8fe;
+    --bs-btn-border-color: #6ea8fe;
+    --bs-btn-hover-bg: #8bb9fe;
+    --bs-btn-hover-border-color: #8bb9fe;
+}
+
+.btn-spotify {
+    background-color: #1db954;
+    color: white;
+}
+
+.btn-spotify:hover {
+    background-color: #16a84a;
+}
+
+.btn-amazon {
+    background-color: #ff9900;
+    color: white;
+}
+
+.btn-amazon:hover {
+    background-color: #e68a00;
+}
