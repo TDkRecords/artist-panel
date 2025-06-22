@@ -106,7 +106,7 @@ He colaborado con Dokzma en el tema “Pensándote” (2022), junto a participac
     <link
         href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&family=Poppins:wght@400;600&family=Roboto:wght@400;700&display=swap"
         rel="stylesheet"
-    />s
+    />
 </svelte:head>
 
 <main class="container py-5">
