@@ -40,3 +40,31 @@ body {
 .btn-amazon:hover {
     background-color: #e68a00;
 }
+
+/* Tipografía global */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Títulos principales */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+/* Texto de introducción o destacado */
+.lead,
+.hero-dark .greeting p {
+    font-family: system-ui, 'Playfair Display', serif;
+}
+
+/* Puedes también estilizar botones con una fuente especial */
+.btn {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
