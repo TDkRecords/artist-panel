@@ -44,6 +44,64 @@ He colaborado con Dokzma en el tema “Pensándote” (2022), junto a participac
 </script>
 
 <svelte:head>
+    <!-- Básicas y SEO -->
+    <meta charset="utf-8" />
+    <title>Axel Josh | Músico, Productor & Creador</title>
+    <meta
+        name="description"
+        content="Axel Josh — fusiones únicas de rock, rap, funk, soul, salsa y cumbia. Escucha mis lanzamientos como ‘Pensándote’, ‘Arcoíris’ y ‘El 110 de Ti’."
+    />
+    <meta
+        name="keywords"
+        content="Axel Josh, músico colombiano, rock, rap, funk, soul, salsa, cumbia, Pensándote, Arcoíris, El 110 de Ti"
+    />
+    <link rel="canonical" href="https://axeljosh.vercel.app/" />
+
+    <!-- Robots: indexar y seguir enlaces -->
+    <meta name="robots" content="index, follow" />
+
+    <!-- Open Graph (para redes sociales como Facebook/WhatsApp) -->
+    <meta property="og:type" content="website" />
+    <meta
+        property="og:title"
+        content="Axel Josh | Músico, Productor & Creador"
+    />
+    <meta
+        property="og:description"
+        content="Fusiones únicas de géneros como rock, rap, funk, soul, salsa y cumbia. Escucha mis lanzamientos."
+    />
+    <meta property="og:url" content="https://axeljosh.vercel.app/" />
+    <meta
+        property="og:image"
+        content="https://axeljosh.vercel.app/_app/immutable/assets/cv-profile.CnJS23yD.jpg"
+    />
+    <meta property="og:site_name" content="Axel Josh" />
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@_axeljosh_" />
+    <meta
+        name="twitter:title"
+        content="Axel Josh | Músico, Productor & Creador"
+    />
+    <meta
+        name="twitter:description"
+        content="Descubre mis fusiones de rock, rap, funk, soul, salsa y cumbia. Lanzamientos como ‘Pensándote’ y más."
+    />
+    <meta
+        name="twitter:image"
+        content="https://pbs.twimg.com/profile_images/1936278496742916096/edjY7rz4_400x400.jpg"
+    />
+
+    <link
+        rel="shortcut icon"
+        href="/src/lib/images/cv-profile.jpg"
+        type="image/x-icon"
+    />
+
+    <!-- Viewport para móviles -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
     <title>Axel Josh</title>
 </svelte:head>
 
