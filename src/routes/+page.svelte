@@ -9,18 +9,18 @@
 He colaborado con Dokzma en el tema “Pensándote” (2022), junto a participaciones con Young Frizz. Estos proyectos me impulsan a seguir tocando en bares, clubes y eventos, con la vista puesta en grandes escenarios.`,
         lanzamientos: [
             {
+                titulo: "Cuando me miras",
+                fecha: "2026-02-28",
+                spotify:
+                    "https://open.spotify.com/intl-es/album/2JCY6oHVz82wZa7YoZMgLk",
+                amazon: "https://music.amazon.com/albums/B0GRCH7XBW?marketplaceId=ART4WZ8MWBX2Y&musicTerritory=CO&ref=dm_sh_GV9zFdvNNH0CdIiQO6NU8RzXZ",
+            },
+            {
                 titulo: "Pensándote (feat. Dokzma)",
                 fecha: "2022-08-02",
                 spotify:
                     "https://open.spotify.com/intl-es/album/6R47pvde2dSLwSo3Di0qmI?si=6dL4zKPQTdKX03eNHa8VHg",
                 amazon: "https://music.amazon.com/albums/B0B75N39B7?marketplaceId=ART4WZ8MWBX2Y&musicTerritory=CO&ref=dm_sh_M1IXVi2b6n9ORkBhGscnKObWt",
-            },
-            {
-                titulo: "Arcoíris",
-                fecha: "2022-05-20",
-                spotify:
-                    "https://open.spotify.com/intl-es/album/1EzAlc9dNhTadL23hPikAE?si=2UThKphgQLaZmyh63mpSpA",
-                amazon: "https://music.amazon.com/albums/B0B5CZKT4B?marketplaceId=ART4WZ8MWBX2Y&musicTerritory=CO&ref=dm_sh_KdOUQlBZKV5eRQplKy7rfQoJK",
             },
             {
                 titulo: "El 110 de Ti",
