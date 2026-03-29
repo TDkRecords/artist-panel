@@ -31,11 +31,11 @@ He colaborado con Dokzma en el tema “Pensándote” (2022), junto a participac
             },
         ],
         redes: {
+            tiktok: "https://www.tiktok.com/@_axeljosh_",
             instagram: "https://www.instagram.com/_axeljosh_/",
             spotify:
                 "https://open.spotify.com/intl-es/artist/6ZsMyAQxU6u1sXkIpvJK1P?si=DQ-Z5GhVSV-29cSUSQGInA&nd=1&dlsi=a7c631c9f4494420",
             youtube: "https://www.youtube.com/@AxelJosh",
-            twitter: "https://x.com/_axeljosh_",
         },
         correo: "tdk.prods.company@gmail.com",
         // URL a tu Press Kit (EPK) en PDF u otro recurso. Cámbiala a la ruta real donde subas tu PDF,
@@ -204,7 +204,7 @@ He colaborado con Dokzma en el tema “Pensándote” (2022), junto a participac
             {#each Object.entries(artista.redes) as [key, link]}
                 <a target="_blank" href={link} class="text-body mx-2">
                     <!-- links -->
-                    <i class="fa fa-fw fa-{key} fa-2x"></i>
+                    <i class="fa fa-fw fa-brands fa-{key} fa-2x"></i>
                 </a>
             {/each}
         </div>
