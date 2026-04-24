@@ -1,0 +1,16 @@
+@import 'tailwindcss';
+
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: calc(2rem + 1.5vw);
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: 'Inter', sans-serif;
+    font-size: calc(1.3rem + .9vw);
+}
+
+p {
+    font-family: monospace, sans-serif;
+    font-size: calc(.8rem + .4vw);
+}
